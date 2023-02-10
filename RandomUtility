@@ -1,0 +1,13 @@
+<html>
+<head>
+<script type="text/javascript">
+function load()
+{
+window.open('https://Charles314.github.io/JMP_public/DynamicStochasticRationalBehavior.pdf', '_self');
+}
+</script>
+</head>
+
+<body onload="load()">
+</body>
+</html>
